@@ -1,4 +1,4 @@
-# Flex Gallery
+# Flex Gallery 🎨
 
 Exercise 5/30, part of the [#Javascript30](https://javascript30.com/) course.
 
@@ -6,3 +6,5 @@ Used this exercise to keep on practicing my Javascript skills. In this particula
 
 - Javascript Vanilla.
 - CSS3
+
+In case you were wondering, the peony pictures used for this are mine 💐. You can check my [Instagram](https://instagram.com/miriamschaefer) in case you're curious.
