@@ -2,10 +2,9 @@
 
 const panels = document.querySelectorAll('.panel');
 
-function growSection() {
+function openSection() {
   this.classList.toggle('open');
-
   this.classList.toggle('open-active');
 }
 
-panels.forEach((panel) => panel.addEventListener('click', growSection));
+panels.forEach((panel) => panel.addEventListener('click', openSection));
