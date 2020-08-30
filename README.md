@@ -1,8 +1,8 @@
-# Javascript clock ⏰
+# Flex Gallery
 
-Exercise 2/30, part of the [#Javascript30](https://javascript30.com/) course.
+Exercise 5/30, part of the [#Javascript30](https://javascript30.com/) course.
 
-Used this exercise to keep on practicing my Javascript skills. In this particular exercise, the main goal is to practice `setInterval()` and the `getSeconds()` function and the `Date` object. Also, worked on my CSS skills with the `transition-timing-function`, which I had never used before.
+Used this exercise to keep on practicing my Javascript skills. In this particular exercise, the main goal is to practice the CSS property `flexbox` and the Javascript `transitionend` event. Also, got to know the `propertyName` check using the array method `includes()` and using `>` as a child combinator on my CSS.
 
 - Javascript Vanilla.
 - CSS3
